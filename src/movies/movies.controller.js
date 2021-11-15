@@ -16,6 +16,13 @@ const read = async (req, res, next) => {
 };
 
 const list = async (req, res, next) => {
+  if (req.query) {
+    const isShowing = req.query.is_showing;
+    if (isShowing === "true") {
+      const data = await moviesService.listMoviesCurrentlyShowing();
+      res.json({ data });
+    }
+  }
   const data = await moviesService.list();
   res.json({ data });
 };
