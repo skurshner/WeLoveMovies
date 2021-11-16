@@ -1,6 +1,6 @@
 # Thinkful Capstone: WeLoveMovies
 
-Deployed at: heroku.com
+Deployed at: https://salty-retreat-77004.herokuapp.com/
 
 ## Project Overview
 
