@@ -26,7 +26,7 @@ In this project, I did the following:
 - Wrote database queries to complete CRUD routes in an Express server.
 - Returned joined and nested data with Knex.
 - Wrote database migrations using Knex's migration tools.
-- Deploedy back end server to a cloud service.
+- Deployed back end server to a cloud service.
 
 ## Routes
 
