@@ -4,13 +4,27 @@ Deployed at: https://salty-retreat-77004.herokuapp.com/
 
 ## Project Overview
 
-Built database and back-end application for an API which returns information about movies, theaters, reviews and critics.
+Created database and back-end application for an API which returns information about movies, theaters, reviews and critics.
 Built using:
 
 - PostgreSQL
 - Node.js
 - Express.js
 - Knex.js
+
+In this project, I:
+
+- Installed and used common middleware packages.
+- Built application that Receives requests through routes and accesses relevant information through route and query parameters.
+- Ran tests from the command line.
+- Created an error handler for the case where a route does not exist.
+- Built an API following RESTful design principles.
+- Created and customize a knexfile.js file.
+- Created a connection to the database with knex.
+- Wrote database queries to complete CRUD routes in an Express server.
+- Returned joined and nested data with Knex.
+- Wrote database migrations using Knex's migration tools.
+- Deploedy back end server to a cloud service.
 
 ## Routes
 
