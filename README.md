@@ -12,10 +12,10 @@ Built using:
 - Express.js
 - Knex.js
 
-In this project, I:
+In this project, I did the following:
 
 - Installed and used common middleware packages.
-- Built application that Receives requests through routes and accesses relevant information through route and query parameters.
+- Built application that receives requests through routes and accesses relevant information through route and query parameters.
 - Ran tests from the command line.
 - Created an error handler for the case where a route does not exist.
 - Built an API following RESTful design principles.
