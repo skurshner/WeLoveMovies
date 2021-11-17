@@ -1,6 +1,7 @@
 # Thinkful Capstone: WeLoveMovies
 
-Deployed at: https://salty-retreat-77004.herokuapp.com/
+Backend Deployed at: http://salty-retreat-77004.herokuapp.com/
+Frontend Deployed at :http://welovemovies-sk.herokuapp.com/
 
 ## Project Overview
 
