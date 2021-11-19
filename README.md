@@ -67,3 +67,9 @@ The following routes and methods are available:
 #### `/theaters`
 
 - `GET` returns all columns for each theater in the database with detailed movie data for each movie showing at that theater
+
+### To run locally
+
+1. Run `npm install`
+2. Copy `.env.sample` and add db urls to `.env`
+3. Run `npm run start:dev`
